@@ -5,3 +5,5 @@ coreos.Dockerfile
 .env
 core-dump-agent/vendor/**
 .idea
+.direnv/**
+.envrc
